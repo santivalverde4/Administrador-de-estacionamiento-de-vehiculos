@@ -1,0 +1,13 @@
+cantidad_espacios: 10
+precio_por_hora: 600
+pago_minimo: 300
+redondear_minuto: 15
+minutos_maximos_salir: 0
+moneda1: 25
+moneda2: 50
+moneda3: 100
+billete1: 1000
+billete2: 2000
+billete3: 5000
+billete4: 10000
+billete5: 20000
